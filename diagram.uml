@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-59.5" y="-15.5">com</node>
+    <node x="-73.0" y="-15.5">netscape</node>
+    <node x="-64.0" y="-15.5">oracle</node>
+    <node x="-56.5" y="-15.5">org</node>
+    <node x="-52.5" y="-15.5">ch</node>
+    <node x="-69.0" y="-15.5">Class50</node>
+    <node x="-56.5" y="-15.5">sun</node>
+    <node x="-70.0" y="-15.5">lombok</node>
+    <node x="-77.0" y="-15.5">META-INF</node>
+    <node x="-55.0" y="-15.5">jdk</node>
+    <node x="-78.0" y="-15.5">win32-x86</node>
+    <node x="-96.5" y="-15.5">groovyjarjarasm</node>
+    <node x="-57.5" y="-15.5">java</node>
+    <node x="-64.5" y="-15.5">assets</node>
+    <node x="-68.0" y="-15.5">groovy</node>
+    <node x="-61.0" y="-15.5">javax</node>
+    <node x="-129.0" y="-114.5">groovyjarjarpicocli</node>
+    <node x="-91.5" y="40.5">groovyjarjarcommonscli</node>
+    <node x="-63.0" y="-15.5">javafx</node>
+    <node x="-55.0" y="-15.5">net</node>
+    <node x="37.0" y="-127.5">groovyjarjarantlr</node>
+    <node x="-170.0" y="-158.5">mockito-extensions</node>
+    <node x="289.0" y="-61.5">win32-x86-64</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="315.0" y="8.0" />
+  <SelectedNodes>
+    <node>groovyjarjarpicocli</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
